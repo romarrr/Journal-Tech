@@ -1,9 +1,9 @@
 # Journal-Tech
 
 ### Gestion du projet
-* Créer un **Trello** par groupe.
-* **Rappel du rôle** => [**scrum master**](https://www.unow.fr/blog/le-coin-des-experts/role-scrum-master-4-points)
-* Sur **Gitlab**, vous créerez chacun votre **branche** sur le projet de votre groupe après l'avoir **cloné** et collaborerez en versionnant votre code par de **push réguliers** : 
+
+* Créer un **Trello**.
+* Sur **Gitlab**, vous créerez chacun votre **branche** sur le projet de votre groupe après l'avoir **cloné** et collaborerez en versionnant votre code par de **push réguliers**.
 
 ### Objectif :
 
